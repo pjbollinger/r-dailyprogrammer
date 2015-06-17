@@ -4,4 +4,4 @@ create a program that will ask the users name, age, and reddit username. have it
 
 for extra credit, have the program log this information in a file to be accessed later.
 
-    [Post](https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/)
+[Link to Post](https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/)
