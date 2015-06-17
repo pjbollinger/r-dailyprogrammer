@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4D38A8E8-CB49-4266-9F9E-9727CDAC6C3E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1D98236AFDED2CA2EBB94A45F5AB07DFCCCBD77A</key>
+		<string>https://github.com/pjbollinger/r-dailyprogrammer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Easy/Easy Challenge 001/Swift/E001/E001.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1D98236AFDED2CA2EBB94A45F5AB07DFCCCBD77A</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pjbollinger/r-dailyprogrammer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1D98236AFDED2CA2EBB94A45F5AB07DFCCCBD77A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1D98236AFDED2CA2EBB94A45F5AB07DFCCCBD77A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>r-dailyprogrammer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
